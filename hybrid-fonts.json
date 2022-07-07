@@ -2930,7 +2930,7 @@
       "Medium": {
         "value": "{Base.Display.Medium.Default.Semi-bold}",
         "type": "typography",
-        "description": "64 semibold"
+        "description": "56 semibold"
       },
       "Large": {
         "value": "{Base.Display.Large.Default.Bold}",
